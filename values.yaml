@@ -52,6 +52,7 @@ image:
   # From repository https://hub.docker.com/r/bitnami/openldap/
   repository: bitnami/openldap
   tag: 2.6.3
+  digest: "sha256:c34220fbdb7fb78f3cbfa76cae3f6e2b95fb6166668a722788be57e649fa9d8d"
   pullPolicy: Always
   pullSecrets: []
 
